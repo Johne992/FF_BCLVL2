@@ -1,0 +1,81 @@
+#john{
+  background-color:azure;
+  border-style: double;
+  padding: 2px;
+  border-radius: 2px;
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Shippori+Mincho+B1:wght@400;800&display=swap');
+
+#nina{
+  border: 2px groove #41245c;
+  background:#a091ad;
+  color:#41245c;
+  padding: 2.5em 2em;
+  margin: 10px 0px;
+}
+
+#nina h1{
+  font-family: 'Shippori Mincho B1', serif;
+}
+
+#chris{
+  color:red;
+  font-family: 'Orbitron', sans-serif;
+  background-image: url(https://images.e-flux-systems.com/1496954377901.png,2000);
+  text-shadow: 4px 4px 5px black;
+}
+
+#sageheader{
+  color:pink;
+  text-decoration: underline;
+  font-weight: bolder;
+}
+#sagebody{
+  border-style: groove;
+  background-color: navy;
+}
+
+  
+#Man{
+  color:blue;
+  
+}
+#Wei{border:solid;
+  background-color: lightblue;
+  text-align: center;
+
+}
+
+
+#Antoinette{
+  color:#669999;
+  border-style: solid 2px;
+  border-color: blue;
+}
+
+
+
+#DSean{
+color: rgb(50, 204, 76);
+border-style: double;
+padding: 40px;
+text-align: center;
+ }
+ 
+
+ #Jaya{
+   background-color: orange;
+   border-style: solid 5px;
+   border-color: blue;
+ }
+
+ #Kalotha{
+   background-color: pink;
+   color: rgb(110, 12, 28);
+   border-style: double;
+   padding:20px;
+   text-align: center;
+   
+
+ }
